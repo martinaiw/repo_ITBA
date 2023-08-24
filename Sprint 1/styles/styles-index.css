@@ -1,0 +1,37 @@
+
+footer {
+    background-color: #D9D9D9;
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+}
+
+footer .footer-icons img {
+    width: 25px;
+    margin: 0 auto;
+    align-items: right;
+    justify-content: center;
+}
+footer .footer-list{
+    align-items: left;
+    flex-direction: column;
+}
+
+footer li {
+    display: inline;
+    list-style-type: none;
+    justify-content: center;
+}
+
+body {
+    background-color: #F5F5F5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: #DFD7BF;
+}
+
+header img {
+    height: 70px;
+}
